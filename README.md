@@ -10,6 +10,8 @@
 
 ************************************
 
+# Simple photo galery, maked with Nextjs
+
 ## To download the project do the following:
 
 ** Click the green CODE button and copy the repository link and do a git clone or click Download zip.
